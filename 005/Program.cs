@@ -1,4 +1,5 @@
-﻿Console.Write("Введите день недели: ");
+﻿// Программа, которая будет выдавать название дня недели по заданному номеру
+Console.Write("Введите день недели: ");
 string username = Console.ReadLine();
 
 if(username.ToLower() == "1")
